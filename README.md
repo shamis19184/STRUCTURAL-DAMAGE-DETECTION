@@ -6,3 +6,13 @@ Dataset
 To train the model, a large dataset containing images of various concrete surfaces from Kaggle is used. The dataset contains two types of images. The positive class represents images of cracked wall surfaces, while the negative class represents images of cracked wall surfaces. Each class has a total of 20000 images.
 
 Dataset Download Link
+https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
+
+Results
+![image](https://github.com/shamis19184/STRUCTURAL-DAMAGE-DETECTION/assets/93128248/f217e5ac-4b53-4722-b113-d0d4d74d9a1e)
+![image](https://github.com/shamis19184/STRUCTURAL-DAMAGE-DETECTION/assets/93128248/944c89d5-570d-43e8-81b9-6bef384c56f1)
+![image](https://github.com/shamis19184/STRUCTURAL-DAMAGE-DETECTION/assets/93128248/4a402b43-5d6f-4dba-9204-a5993cb30a77)
+
+
+
+
